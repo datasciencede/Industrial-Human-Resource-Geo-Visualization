@@ -1,16 +1,16 @@
 # Industrial-Human-Resource-Geo-Visualization
 
-INTRODUCTION
+INTRODUCTION:
 
 This project aims to provide a geo-visualization of industrial human resource data, allowing users to explore and analyze workforce distribution across different states and districts.
 
 
-Data Sources & Guidelines
+Data Sources & Guidelines:
 
 The project utilizes data from various sources, including Data Sources. The Project follows Google Docs guidelines.
 
 
-Prerequisites
+Prerequisites:
 
 Python: Programming Language
 pandas: Python Library for Data Visualization
@@ -20,12 +20,12 @@ scikit-learn: Machine Learning library for the Python programming language
 Natural Language Processing (NLP): A library in Python for working with human language data, including tokenization, stemming, tagging, and more.
 
 
-Data Source
+Data Source:
 
 Link: https://drive.google.com/drive/folders/1lGw-OeZVAHeIH1cvNBiGClRiRmbQ-0qm?usp=share_link
 
 
-Approach
+Approach:
 
 The project follows a fundamental outline:
 
@@ -36,11 +36,11 @@ Machine Learning: Perform machine learning tasks, including training a model to 
 Geo-Visualization: Develop a dashboard app using Streamlit and Plotly to visually represent the distribution of workers across various industries with respect to different geographical regions.
 
 
-PRESENTATION
+PRESENTATION:
 
 The project has been presented, and you can find the slides  https://1drv.ms/p/c/1d0a89d0c960963d/EXLa7_MAXIxOoj74uhUyaOEB3YQK-Zu8bdBlpRE87KoCHg?e=goYsby&nav=eyJzSWQiOjI2MiwiY0lkIjoxNzU5Njc4NzYyfQ
 
-PROJECT AUTHOR
+PROJECT AUTHOR:
 
 MOHIT.R
 
