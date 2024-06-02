@@ -15,15 +15,13 @@ import base64
 
 # - - - - - - - - - - - - - - -set st addbar page - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# Load the image from a local file
 
-# Set the page icon using the Base64 string
 st.set_page_config(
     page_title="HRM",
     
     layout="wide",
     initial_sidebar_state="expanded",
-    menu_items={'About': """# This Flat Resale page is created by *Prabakaran!"""}
+    menu_items={'About': """# This Flat Resale page is created by *mohit!"""}
 )
 
 # Display the title
